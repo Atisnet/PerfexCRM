@@ -24,7 +24,7 @@ $lang['cant_delete_default']  = 'Impossible de supprimer par défaut %s';
 
 # Invoice General
 $lang['invoice_status_paid']                   = 'Payée';
-$lang['invoice_status_unpaid']                 = 'Impayée';
+$lang['invoice_status_unpaid']                 = 'A payer';
 $lang['invoice_status_overdue']                = 'Echue';
 $lang['invoice_status_not_paid_completely']    = 'Partiellement payée';
 $lang['invoice_pdf_heading']                   = 'FACTURE';
